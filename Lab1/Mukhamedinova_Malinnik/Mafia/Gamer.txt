@@ -1,0 +1,17 @@
+8
+Fred
+1 4 8 6
+Tom
+7 4 6 2
+Mark
+4 2 1 4
+Nik
+1 3 5 6
+Kat
+5 6 7 4
+Nona
+3 1 6 5
+Mary
+3 6 6 3
+Anna
+4 5 7 7
